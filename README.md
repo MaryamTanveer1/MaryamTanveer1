@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Maryam Tanveer</h1>
-<h3 align="center">A passionate Developer and UI/UX Designer</h3>
+<h1 align="center">Hi 👋, I'm Maryam Tanveer from Pakistan</h1>
+<h3 align="center">Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamtanveer1&label=Profile%20views&color=0e75b6&style=flat" alt="maryamtanveer1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/t202_maryam" target="blank"><img src="https://img.shields.io/twitter/follow/t202_maryam?logo=twitter&style=for-the-badge" alt="t202_maryam" /></a> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Machine learning and Data Science**
 
 - 📫 How to reach me **maryamtanveer866@gmail.com**
 
